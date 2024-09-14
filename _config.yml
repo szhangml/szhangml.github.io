@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "selfie.png"
   name             : "Sheng Zhang"
-  pronouns         : "he/him/his" # example: "she/her"  
+  pronouns         : "He/him/his" # example: "she/her"  
   bio              : "I am currently an Applied Scientist II at AWS AI working on AI agents, large multimodal models and reinforcement learning."
   location         : "Bellevue, Washington, United States"
   employer         : "ML PhD from Georgia Tech"
