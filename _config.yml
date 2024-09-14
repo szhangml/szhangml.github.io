@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sheng Zhang"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him/his" # example: "she/her"  
+  bio              : "I am currently an Applied Scientist II at AWS AI working on AI agents, large multimodal models and reinforcement learning."
   location         : "Bellevue, Washington, United States"
-  employer         : "Amazon Web Services"
+  employer         : "Georgia Institute of Technology"
   uri              : # URL
   email            : "szhang405@outlook.com" 
 
