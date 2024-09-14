@@ -21,7 +21,7 @@ repository               : "szhangml/szhangml.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfie.jpg"
+  avatar           : "profile.png"
   name             : "Sheng Zhang"
   pronouns         : "He/him/his" # example: "she/her"  
   bio              : "I am currently an Applied Scientist II at AWS AI working on AI agents, large multimodal models and reinforcement learning."
