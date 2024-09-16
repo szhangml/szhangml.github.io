@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Machine Learning, Georgia Institute of Technology, 2023
+* MS in Applied Mathematics, Columbia University, 2017
+* BS in Mathematics and Applied Mathematics, Wuhan University, 2015
 
+<!---
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,7 +32,8 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+
 Skills
 ======
 * Skill 1
@@ -62,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
