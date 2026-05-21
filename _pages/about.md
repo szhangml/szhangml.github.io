@@ -9,12 +9,13 @@ redirect_from:
 
 ## Short Bio
 
-I am an Applied Scientist on the [Amazon Q Business Optimus Team](https://aws.amazon.com/blogs/aws/amazon-q-business-is-adding-new-workflow-automation-capability-and-50-action-integrations/), working on a generative AI powered enterprise automation service designed to streamline the creation and maintenance of workflow automations. I earned my PhD in Machine Learning from Georgia Institute of Technology, where I was advised by Prof. [Justin Romberg](https://ece.gatech.edu/directory/justin-romberg) and Prof. [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/). My doctoral research focused on advancing theoretical understanding of single- and multi-agent Reinforcement Learning, as well as developing efficient algorithms to address large-scale machine learning and decision-making challenges. Prior to that, I received my master's degree in Applied Mathematics from Columbia University and my bachelor's degree in Mathematics and Applied Mathematics from Wuhan University.
+I'm an Applied Scientist on the [Amazon Quick](https://aws.amazon.com/quick/?trk=0ea79374-057c-4897-84f0-5fe792905a8f&sc_channel=ps) team, developing AI agents that run natively on your desktop or in your browser.
 
+I earned my PhD in Machine Learning from Georgia Tech, where I was advised by Prof. [Justin Romberg](https://ece.gatech.edu/directory/justin-romberg) and Prof. [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/). My doctoral research focused on advancing the theoretical understanding of single- and multi-agent reinforcement learning, as well as developing efficient algorithms to address large-scale machine learning and decision-making challenges. Prior to that, I received my master's degree in Applied Mathematics from Columbia University and my bachelor's degree in Mathematics and Applied Mathematics from Wuhan University.
 
 ## Research Interests
 
-I am particularly interested in
+I am particularly interested in:
 
 - AI Agents
 - Multimodal Large Language Models
